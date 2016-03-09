@@ -7,10 +7,11 @@
 
 public class MyFirstProgram {
 
+
 	public static void main(String[] args) {
 
 		int numberOfOutputs; // Fehler 1
-
+		// Prints something
 		Out.print("Please enter the number of outputs: ");
 		numberOfOutputs = In.readInt(); // Fehler 2
 		for (int i = 1; i <= numberOfOutputs; i++) { // Fehler 3
