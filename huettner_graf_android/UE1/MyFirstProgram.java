@@ -20,11 +20,9 @@ public class MyFirstProgram {
 			Out.println(": Hello World!");
 		} // for
 
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+	int marlene=0;
+	int drtoilet=100;	
+ }
 	} // main
 } // MyFirstProgram
-	Out.println(": Hello World!");
-		} // for
-	} // main
-} // MyFirstProgram
->>>>>>> 046b3d2f83b1577047e03a5327da53e4d89e64c4
