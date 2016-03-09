@@ -18,5 +18,7 @@ public class MyFirstProgram {
 			Out.print(i); // Fehler 4
 			Out.println(": Hello World!");
 		} // for
+
+	public void thisIsANewMethod() { }
 	} // main
 } // MyFirstProgram
