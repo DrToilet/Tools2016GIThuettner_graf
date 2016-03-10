@@ -28,7 +28,8 @@ public class MyFirstProgram {
 	drink beer; //a lot of beer
 	
 	CHANGES!!!
-	
+	a/dlskfnlasdlnagkn
+	//.kvj
 }	
  }	} // main
  // MyFirstProgram
