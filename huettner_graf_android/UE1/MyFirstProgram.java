@@ -23,14 +23,14 @@ public class MyFirstProgram {
 
 	public void thisIsANewMethod() {
 	int marlene=0;
-
-	int drtoilet=100;	
- }	} // main
 	int drtoilet=100;
 	boolean sober =true;
 	
 	if(sober==true){
-	drink beer; //a lot of beer	
+	drink beer; //a lot of beer
+	
+	CHANGES!!!
+	
 }	
  }	} // main
  // MyFirstProgram
