@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*Fehlerbeschreibung Aufgabe 1 	Philipp Graf 1510237040
   Fehler 1: Variablendeklaration mit int, nicht integer
   Fehler 2: Variablenbezeichnung numberOfOutputs
@@ -23,6 +22,5 @@ public class MyFirstProgram {
 	public void thisIsANewMethod() {
 	int marlene=0;
 	int drtoilet=100;	
- }
-	} // main
+ }	} // main
 } // MyFirstProgram
