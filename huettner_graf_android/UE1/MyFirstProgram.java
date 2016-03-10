@@ -1,11 +1,7 @@
-*/Fehlerbeschreibung Aufgabe 1 	Philipp Graf 1510237040
-
-*/Fehlerbeschreibung Aufgabe 1 	Philipp Graf 1510237040
-*/Fehler 1: Variablendeklaration mit int, nicht integer
-*/Fehler 2: Variablenbezeichnung numberOfOutputs
-*/Fehler 3: <= sonst nur 4 Outputs
-*/Fehler 3: Zählvariable i, nicht j
-*/
+//Fehlerbeschreibung Aufgabe 1 Philipp Graf 1510237040
+//Fehler 1:Variablendeklaration mit int,nicht integer
+//Fehler 2:Variablenbezeichnung numberOfOutputs
+//Fehler 3:<=sonst nur 4 Outputs*/Fehler 3:Zählvariable i,nicht j
 
 public class MyFirstProgram {
 
@@ -20,8 +16,10 @@ public class MyFirstProgram {
 			Out.print(i); // Fehler 4
 			Out.println(": Hello World!");
 		} // for
+	} // main
 
 	public void thisIsANewMethod() {
+
 	int marlene=0;
 	int drtoilet=100;
 	boolean sober =true;
