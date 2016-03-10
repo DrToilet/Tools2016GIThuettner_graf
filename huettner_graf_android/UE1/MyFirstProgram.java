@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-/*Fehlerbeschreibung Aufgabe 1 	Philipp Graf 1510237040
+*Fehlerbeschreibung Aufgabe 1 	Philipp Graf 1510237040
   Fehler 1: Variablendeklaration mit int, nicht integer
   Fehler 2: Variablenbezeichnung numberOfOutputs
   Fehler 3: <= sonst nur 4 Outputs
@@ -22,7 +21,12 @@ public class MyFirstProgram {
 
 	public void thisIsANewMethod() {
 	int marlene=0;
-	int drtoilet=100;	
+	int drtoilet=100;
+	boolean sober =true;
+	
+	if(sober==true){
+	drink beer; //a lot of beer	
+}	
  }
 	} // main
 } // MyFirstProgram
